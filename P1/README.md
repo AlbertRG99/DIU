@@ -23,6 +23,8 @@
 
 ## COMPETITOR ANALYSIS
 
+![Competitor_analysis](CompetitorAnalysis.png)
+
 ## PERSONA
 
 ## JOURNEY MAP
