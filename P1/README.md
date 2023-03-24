@@ -12,3 +12,5 @@
 (valoración y conclusiones de esta etapa)
 
 ## Empathy Maps
+
+![EmpathyMap_propio](EmpathyMap_propio.png)
