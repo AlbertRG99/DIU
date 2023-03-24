@@ -13,4 +13,6 @@
 
 ## Empathy Maps
 
+### Experiencia propia
+
 ![EmpathyMap_propio](EmpathyMap_propio.png)
