@@ -31,7 +31,7 @@
 
 ## JOURNEY MAP
 
-![Persona1](Persona#1_2.png)
+![Persona1_jm](Persona#1_2.png)
 
 ## USABILITY REVIEW
 
