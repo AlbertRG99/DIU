@@ -3,10 +3,9 @@
 
 
 
-- Desk research: Análisis Competencia 
-- 2 Personas 
-- 2 User Journey Map  ( 1 por persona)
-- Revisión de Usabilidad 
+- Nombre del grupo: JARG
+- Nombre de los autores: José Alberto Rodríguez Godoy
+- Enlace a github: https://github.com/AlbertRG99/DIU/tree/master/P1
 
 
 (valoración y conclusiones de esta etapa)
