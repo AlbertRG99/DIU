@@ -11,7 +11,7 @@
 
 (valoración y conclusiones de esta etapa)
 
-## Empathy Maps
+## EMPATHY MAPS
 
 ### Experiencia propia
 
@@ -20,3 +20,11 @@
 ### Experiencia de clientes
 
 ![EmpathyMap_clientes](EmpathyCustomerMap.png)
+
+## COMPETITOR ANALYSIS
+
+## PERSONA
+
+## JOURNEY MAP
+
+## USABILITY REVIEW
