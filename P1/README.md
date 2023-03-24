@@ -16,3 +16,7 @@
 ### Experiencia propia
 
 ![EmpathyMap_propio](EmpathyMap_propio.png)
+
+### Experiencia de clientes
+
+![EmpathyMap_clientes](EmpathyCustomerMap.png)
