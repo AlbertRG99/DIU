@@ -27,6 +27,10 @@
 
 ## PERSONA
 
+![Persona1](Persona#1.png)
+
 ## JOURNEY MAP
+
+![Persona1](Persona#1_2.png)
 
 ## USABILITY REVIEW
