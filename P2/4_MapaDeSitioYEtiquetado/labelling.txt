@@ -1,0 +1,30 @@
+Inicio
+
+- Productos <lista todos los productos disponibles en la tienda>
+-- Categorías de productos <muestra los productos por categoría>
+--- Productos individuales con información detallada y fotos <muestra los productos individualmente junto con su información>
+--- Opción de agregar productos al carrito de compra <agrega un producto al carrito de compra para comprarlo>
+
+- Talleres <muestra información de los talleres>
+-- Calendario de talleres con fechas y horarios <muestra las fechas y horarios de los talleres futuros>
+-- Información detallada sobre cada taller, incluyendo temáticas, materiales necesarios y nivel de habilidad requerido <informa del tipo de taller>
+-- Opción de reservar plaza en línea <reservar plaza en para ese taller>
+-- Sección de reseñas de talleres anteriores <ver las reseñas de otros clientes para ese taller>
+
+- Sobre nosotros <muestra información referente a la tienda y taller>
+-- Historia y misión de la organización <historia de la propia organización y objetivo que desempeña>
+-- Información sobre el equipo de trabajo y sus habilidades y experiencia <ofrece Indormación el papel que desempeña cada empleado>
+
+- Contacto <cómo ponerse en contacto con el taller>
+-- Formulario de contacto <formulario previo al contacto para conocer los datos del cliente interesado>
+-- Información de ubicación y horario de atención al cliente <muestra la información de la tienda la ubicación de los talleres>
+
+- Carrito de compra <carrito donde se van almacenando los productos que se pretenden comprar>
+-- Lista de productos agregados al carrito <productos que se quieren comprar, añadidos por el usuario>
+-- Opción de modificar cantidad de productos o eliminar productos del carrito <su propio nombre lo indica>
+-- Cálculo de costo total de la compra <suma total del precio de todos los productos junto a su envío>
+
+- Página de pago <sección donde se realizan las transacciones>
+-- Formulario de pago seguro <formulario que rellena el cliente para pagar vía online con los datos de su tarjta>
+-- Opción de ingresar información de envío y facturación <introducir una dirección de envío>
+-- Confirmación de la compra y envío de correo electrónico de confirmación <email de conformación de compra>

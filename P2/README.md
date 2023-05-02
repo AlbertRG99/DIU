@@ -1,3 +1,6 @@
+#### GITHUB: 
+* https://github.com/AlbertRG99/DIU/tree/master/P2
+
 ## DIU - Practica2, entregables
 
 ### Ideación 
