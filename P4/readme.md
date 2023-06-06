@@ -8,7 +8,7 @@
 "El Plato" es una plataforma web que tiene como objetivo ayudar a los usuarios a encontrar restaurantes y lugares para comer en la ciudad de Granada. 
 La plataforma ofrece diversas funcionalidades para facilitar la búsqueda y selección de restaurantes, así como para realizar reservas y conocer ofertas especiales.
 
-[!introducción](./intro_el_plato.png)
+![introducción](./intro_el_plato.png)
 
 #### Users A/B Testing
 
@@ -87,6 +87,8 @@ Quiere poder confiar en la aplicación como una fuente confiable de información
 
 
 #### QUESTIONNAIRE (SUS):
+
+![sus](./SUS_P4.pdf)
 
 #### Usability Report de Caso B y Conclusiones
 
