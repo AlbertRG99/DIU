@@ -75,11 +75,14 @@ Quiere poder confiar en la aplicación como una fuente confiable de información
 * Tareas realizadas 
 * Role-Play
 
-ID,Usuario,Sexo,Edad,Ocupación,Experiencia internet,Plataforma,TestA/B
-1,Sofía Ramírez,M,42,Diseñadora,Media,Web,A
-2,Pablo Martínez,V,34,Fotógrafo,Alta,Web,B
-3,Carlos García,V,35,Arquitecto,Alta,Smartphone,A
-4,Paula García,M,25,42,Media,Smartphone,B
+
+
+| ID | Usuario        | Sexo | Edad | Ocupación     | Experiencia en internet | Plataforma | Test A/B |
+|----|----------------|------|------|---------------|-------------------------|------------|----------|
+| 1  | Sofia Ramirez  | M    | 42   | Diseñadora    | Media                   | Web        | A        |
+| 2  | Pablo Martinez | V    | 34   | Fotografo     | Alta                    | Web        | B        |
+| 3  | Carlos Garcia  | V    | 35   | Arquitecto    | Alta                    | Smartphone | A        |
+| 4  | Paula Garcia   | M    | 25   | Nutricionista | Media                   | Smartphone | B        |
 
 
 * QUESTIONNAIRE (SUS):
