@@ -35,7 +35,7 @@
 
 ## Mockup: LAYOUT HI-FI/Simulación
 
-<video src='https://youtu.be/JYr-_ZNEoeQ' width=180/>
+https://youtu.be/JYr-_ZNEoeQ
 
 ![ios1](./IOS_1.png)
 
