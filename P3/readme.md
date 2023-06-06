@@ -35,7 +35,7 @@
 
 ## Mockup: LAYOUT HI-FI/Simulación
 
-![layout_video](./layout_video.mov)
+https://github.com/AlbertRG99/DIU/blob/master/P3/layout_video.mov
 
 ![ios1](./IOS_1.png)
 
