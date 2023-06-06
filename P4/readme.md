@@ -8,6 +8,7 @@
 "El Plato" es una plataforma web que tiene como objetivo ayudar a los usuarios a encontrar restaurantes y lugares para comer en la ciudad de Granada. 
 La plataforma ofrece diversas funcionalidades para facilitar la búsqueda y selección de restaurantes, así como para realizar reservas y conocer ofertas especiales.
 
+[!introducción](./intro_el_plato.png)
 
 #### Users A/B Testing
 
@@ -88,7 +89,10 @@ Quiere poder confiar en la aplicación como una fuente confiable de información
 #### QUESTIONNAIRE (SUS):
 
 #### Usability Report de Caso B y Conclusiones
-[IMAGEN]
+
+![usability_report_B](./ur.png)
+![usability_report_B_2](./ur_2.png)
+
 
 El informe de usabilidad de los prototipos web revelan una serie de aspectos negativos que pueden afectar la experiencia de los usuarios. Entre ellos se encuentran la dificultad para centrar la acción debido a la cantidad de elementos y texto presentes en un mismo espacio, la elección de colores que no resulta completamente amigable, las incongruencias en el estilo de algunos elementos y la percepción personal de que la fuente utilizada no es la más adecuada para un diseño moderno.
 
