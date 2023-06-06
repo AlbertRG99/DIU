@@ -88,7 +88,7 @@ Quiere poder confiar en la aplicación como una fuente confiable de información
 
 #### QUESTIONNAIRE (SUS):
 
-![sus](./SUS_P4.pdf)
+![sus](./SUS_P4.png)
 
 #### Usability Report de Caso B y Conclusiones
 
